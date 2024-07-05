@@ -12,4 +12,4 @@ Welcome! This repository contains my assignment submissions for the "GANs for Cr
      -  [Assignment 4B](Assignment-4B.ipynb)
 6.  EndTerm
      - [Final Assignment](Finl_Assignment.ipynb)
-7.  [Project Presentation]
+7.  [Project Presentation](GANs_PPT.pdf)
