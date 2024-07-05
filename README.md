@@ -10,6 +10,6 @@ Welcome! This repository contains my assignment submissions for the "GANs for Cr
 4.  MidTerm
      -  [Assignment 4A](Assignment-4A.ipynb)
      -  [Assignment 4B](Assignment-4B.ipynb)
-6.  EndTerm
+6.  EndTerm (Team Project)
      - [Final Assignment](Finl_Assignment.ipynb)
 7.  [Project Presentation](GANs_PPT.pdf)
